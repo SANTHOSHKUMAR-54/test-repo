@@ -41,6 +41,7 @@ export class loginpage {
             await this.enterPassword(password);
             await this.clickSubmit();
             await this.page.waitForURL('https://github.com/')
+            await this.page.context().storageState({ path: 'state.json' });
        }
        catch{
         console.log("already logged in")
