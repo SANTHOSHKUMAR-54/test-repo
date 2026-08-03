@@ -44,7 +44,7 @@ export class loginpage {
             await this.page.context().storageState({ path: 'state.json' });
        }
        catch{
-        console.log("already logged in")
+        console.log("login error..!!")
        }
        
     }
