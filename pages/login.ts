@@ -16,6 +16,8 @@ export class loginpage {
     readonly loginpagerepo: Locator
     readonly clickprofile: Locator
     readonly clickrepo: Locator
+    readonly logout: Locator
+    readonly clicksignout: Locator
 
 
     constructor(page: Page) {
@@ -30,6 +32,8 @@ export class loginpage {
         this.loginpagerepo = page.getByRole('link', { name: 'santhoshoggy/playwright-learning', exact: true })
         this.clickprofile = page.getByRole('button', { name: 'Open user navigation menu' })
         this.clickrepo = page.getByRole('link', { name: 'Repositories' })
+        this.logout = page.locator('input[value="Sign out"]');
+        this.clicksignout = page.getByRole('link',{name:'Sign out'})
 
 
     }
@@ -47,6 +51,12 @@ export class loginpage {
         console.log("login error..!!")
        }
        
+    }
+    async clicklogout(){
+        await this.clickprofile.click();
+        await this.clicksignout.click();
+        await this.logout.click();
+        
     }
 
 

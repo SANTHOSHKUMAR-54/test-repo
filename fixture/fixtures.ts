@@ -6,6 +6,7 @@ import { repopage } from '../pages/repo';
 type fixture ={
    signin : loginpage;
    repo : repopage;
+   logout :loginpage
 }
 
 export const test = testBase.extend<fixture>({
@@ -16,5 +17,8 @@ export const test = testBase.extend<fixture>({
 
     repo:async({page},use)=>{
         await use(new repopage(page))
+    },
+    logout:async({page},use)=>{
+        await use(new loginpage(page))
     }
 });

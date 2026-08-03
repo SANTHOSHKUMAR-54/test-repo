@@ -7,7 +7,9 @@ test.beforeEach('setup', async ({ signin }) => {
 
 })
 
-test('openrepo', async ({ repo }) => {
+test('openrepo', async ({ repo,signin }) => {
   await repo.openrepo1();
   await repo.openrep();
-});     
+   await signin.clicklogout();
+});  
+
