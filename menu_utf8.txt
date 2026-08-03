@@ -1,0 +1,212 @@
+﻿Γùç injected env (2) from .env // tip: Γùê secrets for agents [www.dotenvx.com]
+Γùç injected env (0) from .env // tip: Γîÿ custom filepath { path: '/custom/path/.env' }
+
+Running 1 test using 1 worker
+
+Γùç injected env (0) from .env // tip: Γùê encrypted .env [www.dotenvx.com]
+
+Γùç injected env (0) from .env // tip: Γùê secrets for agents [www.dotenvx.com]
+
+[1/1] [chromium] ΓÇ║ tests\login.spec.ts:9:5 ΓÇ║ openrepo
+[chromium] ΓÇ║ tests\login.spec.ts:9:5 ΓÇ║ openrepo
+=== Links after clicking avatar ===
+
+Link 0: text="Create new repository", href="/new"
+
+Link 1: text="Profile", href="/SANTHOSHKUMAR-54"
+
+Link 2: text="Repositories", href="/SANTHOSHKUMAR-54?tab=repositories"
+
+Link 3: text="Stars", href="/SANTHOSHKUMAR-54?tab=stars"
+
+Link 4: text="Gists", href="http://gist.github.com/mine"
+
+Link 5: text="Organizations", href="/settings/organizations"
+
+Link 6: text="Enterprises", href="/settings/enterprises"
+
+Link 7: text="Sponsors", href="/sponsors/accounts"
+
+Link 8: text="Settings", href="/settings/profile"
+
+Link 9: text="Copilot settings", href="/settings/copilot"
+
+Link 10: text="Appearance", href="/settings/appearance"
+
+Link 11: text="Accessibility", href="/settings/accessibility"
+
+Link 12: text="Try Enterprise
+Free", href="/organizations/enterprise_plan?ref_cta=Start%2520a%2520trial&ref_loc=user_drawer_side_panel&ref_page=Header+Avatar"
+
+Link 13: text="Sign out", href="/logout"
+
+Link 14: text="Skip to content", href="#start-of-content"
+
+Link 15: text="", href="/"
+
+Link 16: text="Dashboard", href="https://github.com/"
+
+Link 17: text="Search syntax tips", href="https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax"
+
+Link 18: text="documentation", href="https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax"
+
+Link 19: text="", href="/copilot"
+
+Link 20: text="", href="/issues"
+
+Link 21: text="", href="/pulls"
+
+Link 22: text="", href="/repos"
+
+Link 23: text="", href="/notifications"
+
+Link 24: text="Reload", href=""
+
+Link 25: text="Reload", href=""
+
+Link 26: text="Reload", href=""
+
+Link 27: text="Please reload this page", href=""
+
+Link 28: text="Create repository", href="/new"
+
+Link 29: text="Import repository", href="/new/import"
+
+Link 30: text="Create repository", href="/new"
+
+Link 31: text="Import repository", href="/new/import"
+
+Link 32: text="Start playlist", href="https://www.youtube.com/watch?v=r8jQ9hVA2qs&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f"
+
+Link 33: text="", href="https://www.youtube.com/watch?v=r8jQ9hVA2qs&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f"
+
+Link 34: text="Create project", href="/new"
+
+Link 35: text="Complete profile", href="/settings/profile"
+
+Link 36: text="GitHub Documentation
+Help for wherever you are on your journey", href="https://docs.github.com/"
+
+Link 37: text="About GitHub and Git
+Read ┬╖ Est. 2m", href="https://docs.github.com/en/get-started/start-your-journey/about-github-and-git"
+
+Link 38: text="How to create your first repository
+Read ┬╖ Est. 5m", href="https://docs.github.com/repositories/creating-and-managing-repositories/quickstart-for-repositories"
+
+Link 39: text="Creating a pull request
+Read ┬╖ Est. 6m", href="https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request"
+
+Link 40: text="What is GitHub Copilot?
+Read ┬╖ Est. 6m", href="https://docs.github.com/copilot/about-github-copilot/what-is-github-copilot"
+
+Link 41: text="GitHub flow
+Read ┬╖ Est. 4m", href="https://docs.github.com/get-started/using-github/github-flow"
+
+Link 42: text="Hello World exercise
+Read ┬╖ Est. 6m", href="https://docs.github.com/get-started/start-your-journey/hello-world"
+
+Link 43: text="Copilot Chat Cookbook
+Read ┬╖ Est. 2m", href="https://docs.github.com/copilot/copilot-chat-cookbook"
+
+Link 44: text="Download", href="https://code.visualstudio.com/download"
+
+Link 45: text="Download", href="https://desktop.github.com/"
+
+Link 46: text="", href="https://github.com"
+
+Link 47: text="Terms", href="https://docs.github.com/site-policy/github-terms/github-terms-of-service"
+
+Link 48: text="Privacy", href="https://docs.github.com/site-policy/privacy-policies/github-privacy-statement"
+
+Link 49: text="Security", href="https://github.com/security"
+
+Link 50: text="Status", href="https://www.githubstatus.com/"
+
+Link 51: text="Community", href="https://github.community/"
+
+Link 52: text="Docs", href="https://docs.github.com/"
+
+Link 53: text="Contact", href="https://support.github.com?tags=dotcom-footer"
+
+=== Buttons after clicking avatar ===
+
+Button 0: text="", aria-label="null"
+
+Button 1: text="", aria-label="null"
+
+Button 2: text="", aria-label="null"
+
+Button 3: text="Set status", aria-label="null"
+
+Button 4: text="Feature preview
+New", aria-label="null"
+
+Button 5: text="", aria-label="null"
+
+Button 6: text="Type / to search", aria-label="Search or jump toΓÇª"
+
+Button 7: text="", aria-label="null"
+
+Button 8: text="", aria-label="null"
+
+Button 9: text="Give feedback", aria-label="null"
+
+Button 10: text="", aria-label="Close"
+
+Button 11: text="Cancel", aria-label="null"
+
+Button 12: text="Submit feedback", aria-label="null"
+
+Button 13: text="", aria-label="Close"
+
+Button 14: text="Cancel", aria-label="null"
+
+Button 15: text="Create saved search", aria-label="null"
+
+Button 16: text="", aria-label="Open CopilotΓÇª"
+
+Button 17: text="", aria-label="null"
+
+Button 18: text="", aria-label="null"
+
+Button 19: text="", aria-label="null"
+
+Button 20: text="Ask", aria-label="null"
+
+Button 21: text="All repositories", aria-label="Select repositories to attach to conversation"
+
+Button 22: text="", aria-label="null"
+
+Button 23: text="", aria-label="null"
+
+Button 24: text="Agent", aria-label="null"
+
+Button 25: text="Create issue", aria-label="null"
+
+Button 26: text="Write code", aria-label="null"
+
+Button 27: text="Git", aria-label="null"
+
+Button 28: text="Pull requests", aria-label="null"
+
+Button 29: text="", aria-label="null"
+
+Button 30: text="", aria-label="null"
+
+Button 31: text="Start chat", aria-label="null"
+
+Button 32: text="", aria-label="null"
+
+Button 33: text="", aria-label="null"
+
+Button 34: text="", aria-label="null"
+
+Button 35: text="", aria-label="null"
+
+Button 36: text="Manage cookies", aria-label="null"
+
+Button 37: text="Do not share my personal information", aria-label="null"
+
+Button 38: text="", aria-label="Dismiss error"
+
+  1 passed (8.4s)
